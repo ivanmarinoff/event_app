@@ -1,0 +1,21 @@
+<!-- The Main Content for the Create Profile section -->{% extends "shared/base.html" %}
+{% load static %}
+{% block content %}
+<section id="login">
+    <div class="form">
+        <!-- Title of the Page -->
+        <h2>Create Profile</h2>
+
+        <!-- Create Profile/Login Form -->
+        <form class="login-form" {% url 'profile_create' %} method="post" enctype="multipart/form-data">
+            {{ form }}
+            {% csrf_token %}
+            <!-- Submit Button -->
+            <input class="btn submit" type="submit" value="Submit">
+
+        </form>
+        <!-- End Create Profile/Login Form -->
+    </div>
+</section>
+<!-- End Create Profile section -->
+{% endblock %}
