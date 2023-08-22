@@ -8,24 +8,26 @@ This is a `Event App` course project built with  **Django**.
 
 ## This is a App `Home page`
 
-![home](file:///static/pictures/home_page.png)
+![home_page](https://github.com/ivanmarinoff/event_app/assets/107050101/9f7c0453-668a-49f8-9516-90cb4d723994)
 <br />
 
 ## This is a `Profile details` page
-![profile](file:///static/pictures/profile_details.png)
+![profile_details](https://github.com/ivanmarinoff/event_app/assets/107050101/059922df-580f-46cb-b7b7-60dd7356d08a)
+
 <br />
 
 ## This is a `Create Event` view
-![create_event](file:///static/pictures/create_event.png)
+![create_event](https://github.com/ivanmarinoff/event_app/assets/107050101/0114d557-3cae-4ee6-8bda-e9c2d19bac06)
+
 <br />
 
 ## This is a `Curent Events` page
+![current_event](https://github.com/ivanmarinoff/event_app/assets/107050101/29216a4c-fef4-44b7-b33d-6e816853257d)
 
-![current_event](file:///static/pictures/current_events.png)
 <br />
 
 ## This is a `Django Admin` page
-![admin](file:///static/pictures/django_admin.png)
+![django_admin](https://github.com/ivanmarinoff/event_app/assets/107050101/185c6b7c-c6f6-48db-a4db-d8d58fcb2aac)
 
 <br />
 
